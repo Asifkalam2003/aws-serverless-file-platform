@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# AWS local credentials
+.aws/
+
+# Temporary files
+*.log
